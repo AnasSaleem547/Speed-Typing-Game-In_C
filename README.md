@@ -1,4 +1,4 @@
-Speed Typing Game
+Speed Typing Game;
 This C program allows you to test and improve your typing speed through two different modes: Letters Per Minute and Words Per Minute. It includes a scoreboard to track your progress and features a user-friendly menu with options for starting the game, viewing the scoreboard, learning how to play, and reading about the developers.
 
 Features
